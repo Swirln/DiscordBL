@@ -14,7 +14,7 @@ After you have done that, follow these steps:<br>
 * Make a new folder named `rpc` in the project folder
 * Get all the folders that end with `static` (ex: `win32-static`)
 * Move or copy all the static folders to the `rpc` folder
-* Compile the DLL in the `dll` folder
+* Compile the DLL in the `dll` folder<br>
 You have now successfully compiled the DLL. You may want to now install it, which is covered in the `Installing` section (below).<br>
 Please note that you may have to edit the .vcxproj for the library paths.
 
