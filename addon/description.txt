@@ -1,0 +1,1 @@
+Adds support for Discord's Rich Presence. https://www.github.com/carrot0559/discordbl
