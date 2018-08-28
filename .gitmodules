@@ -1,0 +1,3 @@
+[submodule "BlocklandLoader"]
+	path = BlocklandLoader
+	url = https://github.com/qoh/BlocklandLoader
