@@ -24,10 +24,10 @@
     <ClInclude Include="discord-rpc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="torque.h">
+    <ClInclude Include="Torque.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="discord_register.h">
+    <ClInclude Include="discord-register.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -38,10 +38,7 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="torque.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="discord_register_win.cpp">
+    <ClCompile Include="Torque.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -65,4 +65,4 @@ void ConsoleVariable(const char* name, float* data);
 void ConsoleVariable(const char* name, bool*  data);
 
 //Initialize the Torque Interface
-bool InitTorque();
+bool InitTorque(int version);
