@@ -108,8 +108,7 @@ function isCleanNumber(%string)
 function isValidIP(%ip)
 {
 	// https://stackoverflow.com/questions/4581877/validating-ipv4-string-in-java
-	 
-	%parts = Array(4, true);
+	
 	%ip = explode(%ip, ".");
 	
 	if (%ip.count !$= 4)
@@ -175,7 +174,6 @@ function MasterServerTCP::onDisconnect(%this)
 		{
 			$DiscordBL::SERVER_NAME = %name;
 		}
-		echo("---------");
 	}
 }
 
