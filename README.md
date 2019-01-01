@@ -3,7 +3,7 @@
 
 DiscordBL is a DLL for Blockland that adds support for Discord Rich Presence.<br>
 This code is a fork of [Zapk's DiscordDLL.](https://github.com/blocklandana/blockland-discord)<br>
-(hi, bcc)<br>
+<img src="https://i.imgur.com/LF2ka4x.png"><br>
 
 ## Compiling
 Download the latest Discord Rich Presence library [here](https://github.com/discordapp/discord-rpc/releases) and edit the paths in the project file. Then you should know what to do.
