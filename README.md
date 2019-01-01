@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/version-1.1-lightgrey.svg">
 
 DiscordBL is a DLL for Blockland that adds support for Discord Rich Presence.<br>
-This code is a fork of [Zapk's DiscordDLL.](https://github.com/blocklandana/blockland-discord)<br>
+This code is a fork of [Zapk's DiscordDLL.](https://github.com/blocklandana/blockland-discord)<br><br>
 <img src="https://i.imgur.com/LF2ka4x.png"><br>
 
 ## Compiling
